@@ -1,0 +1,15 @@
+#box {
+    background-color: red;
+}
+#button-wrap {
+    display: flex;
+}
+
+#father {
+    width: 500px;
+    
+}
+
+#text {
+    width: 500px;
+}
